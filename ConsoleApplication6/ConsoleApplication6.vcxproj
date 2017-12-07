@@ -20,6 +20,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Source1.cpp" />
+    <ClCompile Include="Source2.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{7F966C71-40AE-41CE-BCCC-55D9EC82CA74}</ProjectGuid>
